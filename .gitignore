@@ -1,0 +1,13 @@
+# Generated dependencies and build artifacts
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Operating-system and editor metadata
+.DS_Store
+.vscode/
